@@ -30,6 +30,10 @@ Global to IMU:
 [0.43739069 0.54444435 0.71573021]
 ```
 ![Example](https://github.com/luckykk273/Gram-Schmidt-Process/blob/main/example.png)
+
+## TODO
+- Use cross product method to get the same result.
+
 ## Reference
 ### Theory
 1. [Gram-Schmidt Process - Wiki](https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process)
