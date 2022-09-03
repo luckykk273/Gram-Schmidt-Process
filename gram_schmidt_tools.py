@@ -50,6 +50,11 @@ def gram_schmidt_process(accel_z_imu: np.ndarray, plot=False):
     # Check if e1, e2 and e3 are all orthogonal
     assert e1.dot(e2) < 1e-6 and e1.dot(e3) < 1e-6 and e2.dot(e3) < 1e-6, 'e1, e2 and e3 are not orthogonal'
 
+    print('Orthonormal basis in IMU coordinate:')
+    print('X(e2):', e2)
+    print('Y(e3):', e3)
+    print('Z(e1):', e1)
+
     rot_g_to_imu = np.array([
         #  X      Y      Z
         [e2[0], e3[0], e1[0]],
