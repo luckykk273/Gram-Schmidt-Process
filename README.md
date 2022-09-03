@@ -1,2 +1,2 @@
 # Gram-Schmidt-Process
-Gram–Schmidt process for IMU in
+Given a gravity vector, compute the rotation from the IMU reference coordinate to this vector.
