@@ -19,3 +19,7 @@ if __name__ == '__main__':
 ### Theory
 1. [Gram-Schmidt Process - Wiki](https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process)
 2. [Animation Of Gram-Schmidt Process - zhihu](https://zhuanlan.zhihu.com/p/136627868)
+
+## Contact
+Welcome to contact me for any further question, below is my gmail address:
+luckykk273@gmail.com
